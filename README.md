@@ -4,6 +4,6 @@ Unpowered ethernet switch, using only diodes.
 
 All based on [this extremely clever design](http://www.zen22142.zen.co.uk/Circuits/Interface/pethhub.htm).
 
-![raytraced.png](raytraced render)
+![raytraced render](raytraced.png)
 
-![inprogress.jpg](photo of progress)
+![photo of progress](inprogress.jpg)
